@@ -1,5 +1,4 @@
 FROM python:3.6.4
-MAINTAINER Matthieu Gouel <matthieu.gouel@gmail.com>
 
 # Software version management
 ENV NGINX_VERSION=1.13.8-1~jessie
